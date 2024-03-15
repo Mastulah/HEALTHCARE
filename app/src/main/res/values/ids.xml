@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextLoginUsername" type="id" />
+    <item name="cardExit" type="id" />
+    <item name="cardFDFamilyPhysician" type="id" />
+    <item name="cardDietician" type="id" />
+    <item name="cardDentist" type="id" />
+    <item name="cardSurgeon" type="id" />
+    <item name="cardGynecologist" type="id" />
+    <item name="textViewDDTitle" type="id" />
+</resources>
