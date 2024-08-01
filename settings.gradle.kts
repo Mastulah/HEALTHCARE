@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "agam"
+rootProject.name = "healthcare"
 include("app")
  
